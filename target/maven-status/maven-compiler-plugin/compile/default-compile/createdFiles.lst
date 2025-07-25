@@ -1,0 +1,13 @@
+dataaccesslayer\AuthorsDao.class
+dataaccesslayer\DataSource.class
+transferobjects\AuthorDTO.class
+viewlayer\GetAuthorByIdServlet.class
+businesslayer\AuthorsBusinessLogic.class
+viewlayer\AddAuthorServlet.class
+viewlayer\FrontControllerServlet.class
+dataaccesslayer\AuthorsDaoImpl.class
+viewlayer\GetAllAuthorsServlet.class
+businesslayer\ValidationException.class
+transferobjects\CredentialsDTO.class
+viewlayer\DeleteAuthorServlet.class
+viewlayer\UpdateAuthorServlet.class
